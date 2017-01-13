@@ -30,6 +30,10 @@
 
 ## Plugin-specific files:
 
+/.idea
+/.mvn
+/target
+/spring-jms-activemq.iml
 # IntelliJ
 /out/
 
