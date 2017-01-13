@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/model/InventoryResponse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/model/Order.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/model/OrderStatus.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/service/OrderRepository.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/service/OrderRepositoryImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/service/OrderService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/service/OrderServiceImpl.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/springboot/activemq/jms/util/BasicUtil.java" charset="windows-1252" />
+  </component>
+</project>
